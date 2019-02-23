@@ -1,3 +1,3 @@
 number = 1 + 1
 
-puts number + "is the loneliest number"
+puts number.to_s + "is the loneliest number"
