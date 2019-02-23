@@ -1,3 +1,3 @@
 number = 1 + 1
 
-number + "is the loneliest number"
+puts number + "is the loneliest number"
